@@ -1,6 +1,6 @@
  - GOAL
 The goal of the game is to collect all the yellow spinning triangles placed across every level.
-After collecting all of them (there are 10 of them), the poral will be open.
+After collecting all of them (there are 10 of them), the portal will open.
 Enter the portal to reach next level, or win the game if it's the last level.
 
  - CONTROLS
