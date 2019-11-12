@@ -13,4 +13,4 @@ C / Numpad3	Show green platrorms
 V		Toggle vertical sync (default on)
 T		Toggle fullscreen (default on).
 			Only resolution supported is 1366x768.
-			Untoggle if your screen has higher resolution).
+			Untoggle if your screen has higher resolution.
