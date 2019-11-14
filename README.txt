@@ -1,5 +1,5 @@
  - LAUNCH THE GAME
- To launch the compiled game you must extract the "Release.zip" archive and launch MGA1.exe. It can only run on Windows.
+To launch the compiled game you must extract the "Release.zip" archive and launch MGA1.exe. It can only run on Windows.
 
 - GOAL
 The goal of the game is to collect all the yellow spinning triangles placed across every level.
